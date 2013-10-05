@@ -1,7 +1,8 @@
 <h1>Side Navigation Menu</h1>
 
-<p>The source code for www.pablogarciafernandez.com.</p>
+<h2>How it works</h2>
 
+<p>soon...</p>
 
 
 <h2>Download, Fork, Commit.</h2>
