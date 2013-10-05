@@ -1,7 +1,5 @@
 <h1>Side Navigation Menu</h1>
 
-<h2>Pablo García Fernández</h2>
-
 <p>The source code for www.pablogarciafernandez.com.</p>
 
 <h2>Build and source code</h2>
@@ -33,3 +31,5 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</code></pre>
 
 <p>Please read the <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">licensing page</a> for further details and usage.</p>
+
+<a href="http://pablogarciafernandez.com" title="Pablo García Fernández" target="_blank">Pablo García Fernández</a>
