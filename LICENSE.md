@@ -1,6 +1,5 @@
 <h1>License</h1>
 <h2>Side Navigation Menu</h2>
-<h3>Created by Pablo García Fernández</h3>
 
 <p>This is a human-readable summary of the <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode" target="_blank">Legal Code (the full license).</p>
 
