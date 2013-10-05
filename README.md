@@ -1,5 +1,7 @@
 <h1>Side Navigation Menu</h1>
 
+<a href="http://www.pablogarciafernandez.com/lab/side-navigation-menu.html" target="_blank">Check out the demo page</a>.
+
 <h2>How it works</h2>
 
 <p>We have a &lt;nav&gt; label on the left of the screen with <code>position: fixed;</code>, a width and a fixed height.</p>
@@ -19,5 +21,7 @@ nav{
 <h2>Download, Fork, Commit.</h2>
 
 <p>If you think you can make this better, please Download, Fork, & Commit. I'd love to see your ideas.</p>
+
+
 
 <a href="http://pablogarciafernandez.com" title="Pablo García Fernández" target="_blank">Pablo García Fernández</a>
