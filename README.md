@@ -1,4 +1,4 @@
-Navigation-Menu
+<h1>Side Navigation Menu</h1>
 ===============
 
 <h2>Pablo García Fernández</h2>
