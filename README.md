@@ -25,7 +25,7 @@ nav{
 
 <a href="http://www.pablogarciafernandez.com/lab/side-navigation-menu.html" target="_blank">Code on official site</a>
 
-<a href="http://codepen.io/PableraShow/pen/hubAa" target="_blank">Code on CodePen</a>
+<a href="http://codepen.io/PableraShow/pen/HdJtv" target="_blank">Code on CodePen</a>
 
 ===================
 
