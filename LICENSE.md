@@ -6,7 +6,7 @@
 <h4>You are free:</h4>
 
 <ul>
-  <li>o Share — to copy, distribute and transmit the work</li>
+  <li>to Share — to copy, distribute and transmit the work</li>
   <li>to Remix — to adapt the work</li>
 </ul>
 
