@@ -21,7 +21,7 @@ nav{
 
 <h2>Download, Fork, Commit.</h2>
 
-<p>If you think you can make this better, please Download, Fork, & Commit. I'd love to see your ideas.</p>
+<p>If you think you can make this better, please Download, Fork, &amp; Commit. I'd love to see your ideas.</p>
 
 <a href="http://www.pablogarciafernandez.com/lab/side-navigation-menu.html" target="_blank">Code original</a>
 
