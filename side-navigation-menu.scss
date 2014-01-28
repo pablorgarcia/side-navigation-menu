@@ -76,16 +76,17 @@ section{
   background-color: #ccc;
   bottom: 0;
   left: 0;
+  max-width: 70px;
+  min-width: 70px;
   padding: 1em;
   position: fixed;
   top: 0;
-  min-width: 70px;
-
   transition-duration: .4s;
   transition-property: all;
 
   &:hover {
     background-color: #9ED29E;
+    max-width: 100%;
 
     a {
       -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
@@ -103,7 +104,9 @@ section{
     filter: alpha(opacity=0);
     opacity: 0;
     padding-left: 1em;
+    position: relative;
     text-indent: -200px;
+    z-index: 3;
 
     &:hover {
       text-decoration: underline;
