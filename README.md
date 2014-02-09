@@ -1,6 +1,6 @@
 <h1>Side Navigation Menu</h1>
 
-<p>CSS3 transition technology & without JS.</p>
+<p>CSS3 transition property & without JS.</p>
 <a href="http://www.pablogarciafernandez.com/lab/demo/side-navigation-menu.html" target="_blank">Check out the demo page</a>.
 
 <h2>How it works</h2>
