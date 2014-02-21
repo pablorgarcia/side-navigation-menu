@@ -27,7 +27,7 @@ You should add this comment to the beginning of the CSS code of this plugin:
 
 */
 </pre>
-And add another comment when finish the code plugin:
+And add another comment when finish the CSS code plugin:
 <pre>
 /*	
 	End of the Side Navigation Menu
