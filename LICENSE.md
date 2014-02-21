@@ -15,7 +15,7 @@
 <ul>
   <li>Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
 
-You should add this comment to the beginning of the code of this plugin.
+You should add this comment to the beginning of the code of this plugin:
 <pre>
 /*	
 	Side Navigation Menu
@@ -26,7 +26,17 @@ You should add this comment to the beginning of the code of this plugin.
 	Author: @PableraShow
 
 */
-</pre></li>
+</pre>
+And add another comment when finish the code plugin:
+<pre>
+/*	
+	End of the Side Navigation Menu
+	===================
+	Author: @PableraShow
+
+*/
+</pre>
+</li>
   <li>Noncommercial — You may not use this work for commercial purposes.</li>
   <li>Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</li>
 </ul>
