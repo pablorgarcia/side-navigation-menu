@@ -23,6 +23,28 @@ nav{
 
 <p>If you think you can make this better, please Download, Fork, &amp; Commit. I'd love to see your ideas.</p>
 
+<p>You should add this comment to the beginning of the CSS code of this plugin:
+<pre>
+/*	
+	Side Navigation Menu
+	===================
+	License:
+	http://goo.gl/eOTvzB
+	===================
+	Author: @PableraShow
+
+*/
+</pre>
+And add another comment when finish the CSS code plugin:
+<pre>
+/*	
+	End of the Side Navigation Menu
+	===================
+	Author: @PableraShow
+
+*/
+</pre></p>
+
 ===================
 
 <a href="http://pablogarciafernandez.com" title="Pablo García Fernández" target="_blank">Pablo García Fernández</a>
