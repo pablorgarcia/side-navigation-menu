@@ -31,7 +31,7 @@ nav{
 	Side Navigation Menu
 	===================
 	License:
-	http://goo.gl/eOTvzB
+	http://goo.gl/KC3XXj
 	===================
 	Author: @PableraShow
 
