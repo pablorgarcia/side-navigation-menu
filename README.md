@@ -1,7 +1,7 @@
 <h1>Side Navigation Menu</h1>
 
 <p>CSS3 transition property & without JS.</p>
-<a href="http://www.pablogarciafernandez.com/lab/demo/side-navigation-menu.html" target="_blank">Check out the demo page</a>.
+<a href="http://codepen.io/PableraShow/pen/HdJtv" target="_blank">Check out the demo page</a>.
 
 <h2>How it works</h2>
 
@@ -22,10 +22,6 @@ nav{
 <h2>Download, Fork, Commit.</h2>
 
 <p>If you think you can make this better, please Download, Fork, &amp; Commit. I'd love to see your ideas.</p>
-
-<a href="http://www.pablogarciafernandez.com/lab/side-navigation-menu.html" target="_blank">Code original</a>
-
-<a href="http://codepen.io/PableraShow/pen/HdJtv" target="_blank">Demo on CodePen</a>
 
 ===================
 
