@@ -8,6 +8,8 @@
 
 */
 
+@import url(http://pablogarciafernandez.com/css/reset.css);
+
 /* Typography
 ------------------------------------- */
 @charset "UTF-8";
@@ -82,12 +84,6 @@ h2 a{
 ------------------------------------- */
 body{
     background: #f1f1f1;
-}
-
-ul,
-li {
-	padding: 0;
-	margin: 0;
 }
 
 /* Navigation */
