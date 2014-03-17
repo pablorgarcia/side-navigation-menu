@@ -21,7 +21,7 @@ You should add this comment to the beginning of the CSS code of this plugin:
 	Side Navigation Menu
 	===================
 	License:
-	http://goo.gl/eOTvzB
+	http://goo.gl/KC3XXj
 	===================
 	Author: @PableraShow
 
