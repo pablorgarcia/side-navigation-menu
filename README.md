@@ -23,6 +23,8 @@ nav{
 
 <p>If you think you can make this better, please Download, Fork, &amp; Commit. I'd love to see your ideas.</p>
 
+<h2>License</h2>
+
 <p>You should add this comment to the beginning of the CSS code of this plugin:
 <pre>
 /*	
