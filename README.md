@@ -49,4 +49,4 @@ And add another comment when finish the CSS code plugin:
 
 ===================
 
-<a href="http://pablogarciafernandez.com" title="Pablo García Fernández" target="_blank">Pablo García Fernández</a>
+<p>Pablo García Fernández</p>
