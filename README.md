@@ -22,31 +22,3 @@ nav{
 <h2>Download, Fork, Commit.</h2>
 
 <p>If you think you can make this better, please Download, Fork, &amp; Commit. I'd love to see your ideas.</p>
-
-<h2>License</h2>
-
-<p>You should add this comment to the beginning of the CSS code of this plugin:
-<pre>
-/*	
-	Side Navigation Menu
-	===================
-	License:
-	http://goo.gl/KC3XXj
-	===================
-	Author: @PableraShow
-
-*/
-</pre>
-And add another comment when finish the CSS code plugin:
-<pre>
-/*	
-	End of the Side Navigation Menu
-	===================
-	Author: @PableraShow
-
-*/
-</pre></p>
-
-===================
-
-<p>Pablo García Fernández</p>
